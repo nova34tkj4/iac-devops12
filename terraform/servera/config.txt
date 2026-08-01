@@ -1,1 +1,1 @@
-test
+ini config server a
