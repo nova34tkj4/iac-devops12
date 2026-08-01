@@ -1,2 +1,0 @@
-ini config server a
-ini yang melakukan config devops2
